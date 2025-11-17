@@ -35,7 +35,7 @@ Date: August 2025
 
     🌐 Web Deployment: FastAPI backend served directly, with NGINX handling static frontend files.
 
-    🚀 CI/CD Pipeline: GitHub Actions for continuous deployment with automatic server updates on every push
+    🚀 CI/CD Pipeline: GitHub Actions for continuous deployment with automatic server updates on every push.
 
     ⚡ Chat Integration: Frontend sends POST requests to FastAPI to generate Dracula’s responses in real time.
 
