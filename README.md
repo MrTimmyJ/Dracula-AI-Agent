@@ -33,7 +33,9 @@ Date: August 2025
 
     🧛 Interactive Chat UI: Web frontend where users “talk with Dracula.”
 
-    🌐 Web Deployment: FastAPI backend served directly, with NGINX handling static frontend files.  
+    🌐 Web Deployment: FastAPI backend served directly, with NGINX handling static frontend files.
+
+    🚀 CI/CD Pipeline: GitHub Actions for continuous deployment with automatic server updates on every push
 
     ⚡ Chat Integration: Frontend sends POST requests to FastAPI to generate Dracula’s responses in real time.
 
